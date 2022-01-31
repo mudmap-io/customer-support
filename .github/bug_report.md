@@ -28,11 +28,10 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**pfSense Information**
+- Version: [e.g. 2.5.2]
+- Type: [e.g. Hardware, Virtualised or hosted (AWS etc)]
+- Community Version: [yes/no]
 
 **Additional context**
 Add any other context about the problem here.
